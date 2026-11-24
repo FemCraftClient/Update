@@ -1,6 +1,6 @@
 {
   "servers": [
-    { "name": "CityPvP", "ip": "CityPvP.DE" },
-    { "name": "Best MiniGames Server", "ip": "mc-unicat.de" }
+    { "name": "CityPvP (Opening Soon)", "ip": "CityPvP.DE" },
+    { "name": "UniCat", "ip": "mc-unicat.de" }
   ]
 }
