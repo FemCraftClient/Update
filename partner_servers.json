@@ -1,6 +1,6 @@
 {
   "servers": [
-    { "name": "CityPvP (Opening Soon)", "ip": "CityPvP.DE" },
-    { "name": "UniCat", "ip": "mc-unicat.de" }
+    { "name": "CityPvP (Opening Soon)", "ip": "CityPvP.DE", "version": "26.3" },
+    { "name": "UniCat", "ip": "mc-unicat.de", "version": "auto" }
   ]
 }
